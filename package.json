@@ -29,7 +29,6 @@
     "terser-webpack-plugin": "^1.4.5",
     "optimize-css-assets-webpack-plugin": "^5.0.4"
   },
-  "private": true,
   "devDependencies": {
     "@babel/cli": "^7.12.1",
     "@babel/core": "^7.12.3",
